@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\cours\\420-14B-FX-A26\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52A453-2055-4138-AB4B-43AA59D7A818}|Exercice1\\Question1.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\cours\\420-14b-fx-a26\\contenu_prof\\bloc1\\cours 01\\s1e1-revision-solution\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52A453-2055-4138-AB4B-43AA59D7A818}|Exercice1\\Question1.csproj|solutionrelative:exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\cours\\420-14B-FX-A26\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Exercice1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\cours\\420-14B-FX-A26\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Exercice1\\Program.cs",
+              "RelativeToolTip": "Exercice1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:09:25.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

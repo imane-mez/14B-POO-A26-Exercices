@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\bin\Debug\net8.0\Question1.exe
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\bin\Debug\net8.0\Question1.deps.json
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\bin\Debug\net8.0\Question1.runtimeconfig.json
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\bin\Debug\net8.0\Question1.dll
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\bin\Debug\net8.0\Question1.pdb
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.dll
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\refint\Question1.dll
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.pdb
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\S1E1-Revision\Exercice1\obj\Debug\net8.0\ref\Question1.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\bin\Debug\net8.0\Question1.deps.json
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\bin\Debug\net8.0\Question1.runtimeconfig.json
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\bin\Debug\net8.0\Question1.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\bin\Debug\net8.0\Question1.pdb
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.sourcelink.json
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\refint\Question1.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.pdb
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Cégep Garneau\cours\420-14B-FX-A26\contenu_prof\bloc1\cours 01\S1E1-Revision-Solution\Exercice1\obj\Debug\net8.0\ref\Question1.dll

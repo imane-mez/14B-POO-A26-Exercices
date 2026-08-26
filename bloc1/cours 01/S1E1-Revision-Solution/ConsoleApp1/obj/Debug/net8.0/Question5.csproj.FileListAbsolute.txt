@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\bin\Debug\net8.0\Question5.exe
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\bin\Debug\net8.0\Question5.deps.json
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\bin\Debug\net8.0\Question5.runtimeconfig.json
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\bin\Debug\net8.0\Question5.dll
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\bin\Debug\net8.0\Question5.pdb
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.dll
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\refint\Question5.dll
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.pdb
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\Question5.genruntimeconfig.cache
+C:\Users\Admin\source\repos\S1E1-Revision\ConsoleApp1\obj\Debug\net8.0\ref\Question5.dll
