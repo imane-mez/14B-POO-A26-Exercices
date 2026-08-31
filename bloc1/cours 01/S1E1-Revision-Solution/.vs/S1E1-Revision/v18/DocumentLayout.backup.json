@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\cours\\420-14B-FX-A26\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C52A453-2055-4138-AB4B-43AA59D7A818}|Exercice1\\Question1.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\cours\\420-14b-fx-a26\\contenu_prof\\bloc1\\cours 01\\s1e1-revision-solution\\exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C52A453-2055-4138-AB4B-43AA59D7A818}|Exercice1\\Question1.csproj|solutionrelative:exercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59BF51A3-3B24-4558-BF82-6BFBD811E96B}|Question6\\Question6.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\documents\\cegep\\a2026\\14b\\exercices\\exercices-solutions\\bloc1\\cours 01\\s1e1-revision-solution\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BF51A3-3B24-4558-BF82-6BFBD811E96B}|Question6\\Question6.csproj|solutionrelative:question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBA54B4-B15F-4CA3-ACB9-E6710EF23D82}|ConsoleApp1\\Question5.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\documents\\cegep\\a2026\\14b\\exercices\\exercices-solutions\\bloc1\\cours 01\\s1e1-revision-solution\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBA54B4-B15F-4CA3-ACB9-E6710EF23D82}|ConsoleApp1\\Question5.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76207B2B-0BE9-4B4E-A830-96039967A300}|Question4\\Question4.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\documents\\cegep\\a2026\\14b\\exercices\\exercices-solutions\\bloc1\\cours 01\\s1e1-revision-solution\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76207B2B-0BE9-4B4E-A830-96039967A300}|Question4\\Question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8E5889-534C-485B-87F8-BF4D1F1E6F86}|Question7\\Question7.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\documents\\cegep\\a2026\\14b\\exercices\\exercices-solutions\\bloc1\\cours 01\\s1e1-revision-solution\\question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8E5889-534C-485B-87F8-BF4D1F1E6F86}|Question7\\Question7.csproj|solutionrelative:question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8F6FBA-8F44-4960-8812-44B718034266}|Question3\\Question3.csproj|c:\\users\\admin\\onedrive - c\u00E9gep garneau\\documents\\cegep\\a2026\\14b\\exercices\\exercices-solutions\\bloc1\\cours 01\\s1e1-revision-solution\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8F6FBA-8F44-4960-8812-44B718034266}|Question3\\Question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,42 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:21:35.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\cours\\420-14B-FX-A26\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Exercice1\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\cours\\420-14B-FX-A26\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Exercice1\\Program.cs",
-              "RelativeToolTip": "Exercice1\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question6\\Program.cs",
+              "RelativeDocumentMoniker": "Question6\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question6\\Program.cs",
+              "RelativeToolTip": "Question6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T11:09:25.884Z",
+              "WhenOpened": "2026-08-24T01:19:33.395Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 800,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question7\\Program.cs",
+              "RelativeDocumentMoniker": "Question7\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question7\\Program.cs",
+              "RelativeToolTip": "Question7\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:13:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Program.cs",
+              "RelativeDocumentMoniker": "Question3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Program.cs",
+              "RelativeToolTip": "Question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:00:17.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\Program.cs",
+              "RelativeDocumentMoniker": "Question4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - C\u00E9gep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\Program.cs",
+              "RelativeToolTip": "Question4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T23:59:37.59Z",
+              "EditorCaption": ""
             }
           ]
         }

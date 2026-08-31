@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj": {}
+    "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj": {
+    "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj",
         "projectName": "Question3",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\Question3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

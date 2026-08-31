@@ -1,6 +1,6 @@
 ﻿Console.Write("Entrez une phrase : ");
 
-string chaine = Console.ReadLine();
+string chaine = Console.ReadLine().Replace(" ", "").ToLower();
 
 
 // Nombre de comparaisons à effectuer dans le pire des cas.

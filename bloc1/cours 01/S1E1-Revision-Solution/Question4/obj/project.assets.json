@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\Question4.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\Question4.csproj",
       "projectName": "Question4",
-      "projectPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\Question4.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\Question4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\contenu_prof\\contenu_prof\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive - Cégep Garneau\\Documents\\Cegep\\A2026\\14B\\Exercices\\Exercices-solutions\\bloc1\\cours 01\\S1E1-Revision-Solution\\Question4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,18 @@ C:\Users\Admin\source\repos\S1E1-Revision\Question6\obj\Debug\net8.0\refint\Ques
 C:\Users\Admin\source\repos\S1E1-Revision\Question6\obj\Debug\net8.0\Question6.pdb
 C:\Users\Admin\source\repos\S1E1-Revision\Question6\obj\Debug\net8.0\Question6.genruntimeconfig.cache
 C:\Users\Admin\source\repos\S1E1-Revision\Question6\obj\Debug\net8.0\ref\Question6.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\bin\Debug\net8.0\Question6.exe
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\bin\Debug\net8.0\Question6.deps.json
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\bin\Debug\net8.0\Question6.runtimeconfig.json
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\bin\Debug\net8.0\Question6.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\bin\Debug\net8.0\Question6.pdb
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.sourcelink.json
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\refint\Question6.dll
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.pdb
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\Question6.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Cégep Garneau\Documents\Cegep\A2026\14B\Exercices\Exercices-solutions\bloc1\cours 01\S1E1-Revision-Solution\Question6\obj\Debug\net8.0\ref\Question6.dll
