@@ -70,7 +70,6 @@ namespace S2C1_ExempleRectangle
             {
                 if (value >= LARGEUR_MIN && value <= LARGEUR_MAX)
                     _largeur = value;
-
             }
         }
 
@@ -86,7 +85,6 @@ namespace S2C1_ExempleRectangle
 
             set
             {
-                value = value.Trim();
                 if (value.Length >= COULEUR_NB_CARACTERES_MIN && value.Length <= COULEUR_NB_CARACTERES_MAX)
                     _couleur = value.Trim();
             }
@@ -130,7 +128,7 @@ namespace S2C1_ExempleRectangle
         /// <returns>Périmètre du rectangle</returns>
         private float CalculerPerimetre()
         {
-            return (this.Hauteur * 2) + (Largeur * 2);
+            return (Hauteur * 2) + (Largeur * 2);
         }
 
         /// <summary>
