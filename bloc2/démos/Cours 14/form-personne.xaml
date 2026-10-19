@@ -1,0 +1,20 @@
+<StackPanel Margin="20">
+    <TextBlock HorizontalAlignment="Center" FontSize="18" FontWeight="Bold" Foreground="DarkBlue">Fiche personne</TextBlock>
+
+    <StackPanel HorizontalAlignment="Center" Margin="20">
+        <StackPanel Orientation="Horizontal">
+            <Label Width="100">Nom</Label>
+            <TextBox Name="txtNom" Width="200"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+            <Label Width="100">Prénom</Label>
+            <TextBox Name="txtPrenom" Width="200"></TextBox>
+        </StackPanel>
+
+        <Button Name="btnFermer" Width="100" Margin="0,5,0,0" Click="btnFermer_Click">Fermer</Button>
+
+    </StackPanel>
+
+
+</StackPanel>
